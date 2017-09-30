@@ -9,15 +9,15 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "timedreamer blog"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "timedreamer"
+description              : "test"
 url                      : "https://timedreamer.github.io/"
 github_username          : "timedreamer"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "timedreamer/timedreamer.github.io"
-github: [metadata]
+github                   : [metadata]
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -39,7 +39,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  path                   : "_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "timedreamer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
