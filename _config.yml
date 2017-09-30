@@ -5,14 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
 title                    : "timedreamer blog"
 title_separator          : "-"
 name                     : "timedreamer"
-description              : "test"
+description              : "My blog (experimental)"
 url                      : "https://timedreamer.github.io/"
 github_username          : "timedreamer"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "timedreamer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Growing plant."
+  location         : "Tallahassee, FL"
   email            :
   uri              :
   bitbucket        :
@@ -249,3 +249,12 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
