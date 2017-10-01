@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "timedreamer"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Growing plant."
+  avatar           : "/assets/images/my-bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I grow corn, rice and Arabidopsis."
   location         : "Tallahassee, FL"
   email            :
   uri              :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "timedreamer"
   gitlab           :
   google_plus      :
   keybase          :
@@ -249,7 +249,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
 defaults:
   # _pages
   - scope:
