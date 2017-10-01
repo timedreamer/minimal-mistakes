@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "air" # "default", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "timedreamer blog"
+title                    : "timedreamer's blog"
 title_separator          : "-"
-name                     : "timedreamer"
-description              : "My blog (experimental)"
+name                     : "Ji Huang"
+description              : "My blog (experimental) on crop epigentics and genomics."
 url                      : "https://timedreamer.github.io/"
 github_username          : "timedreamer"
 baseurl                  : # the subpath of your site, e.g. "/blog"
