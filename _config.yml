@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "air" # "default", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "timedreamer blog"
+title                    : "timedreamer's blog"
 title_separator          : "-"
-name                     : "timedreamer"
-description              : "My blog (experimental)"
+name                     : "Ji Huang"
+description              : "My blog (experimental) on crop epigentics and genomics."
 url                      : "https://timedreamer.github.io/"
 github_username          : "timedreamer"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "timedreamer"
+  name             : "Ji Huang"
   avatar           : "/assets/images/my-bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I grow corn, rice and Arabidopsis."
   location         : "Tallahassee, FL"
@@ -249,8 +249,6 @@ defaults:
       comments: # true
       share: true
       related: true
-
-defaults:
   # _pages
   - scope:
       path: ""
