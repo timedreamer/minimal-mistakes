@@ -10,7 +10,7 @@ date: 2017-10-01
 
 My name is Ji Huang. I am a PhD student in [Dr. Karen McGinnis][1]{:target="_blank"} lab at Florida State University. We use maize as our model organism to study gene regulation, especially epigenetic regulation. I'm interested in how genes and TEs are regulated at genome-wide scale. Before joining FSU, I got my Bachelor degree in biological science from [Huazhong Agricultural University][5]{:target="_blank"}, China.
 
-You can view my CV here. [Get the PDF]({{ site.url }}/assets/Ji_Huang_CV.pdf){:target="_blank"}.
+You can view my CV here. [Get the PDF]({{ site.url}}/assets/Ji_Huang_CV.pdf){:target="_blank"}.
 
 Find me at:
   + [Google Scholar][2]{:target="_blank"}
