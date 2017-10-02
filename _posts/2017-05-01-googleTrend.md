@@ -1,4 +1,10 @@
-# Google Trend Explore 1
+---
+title:  "Google Trend "
+layout: single
+date: 2017-05-01
+categories:
+  - misc
+---
 
 {% include toc %}
 
