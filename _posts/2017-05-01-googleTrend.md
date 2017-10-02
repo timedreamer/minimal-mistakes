@@ -6,9 +6,9 @@ categories:
   - misc
 ---
 
-{% include toc %}
-
 Today, I tried [Google trend](https://trends.google.com/trends/){:target="_blank"} for some interesting comparisons. In Google trend, you can search just one item or topic or compare several.
+
+{% include toc %}
 
 ## Pubmed vs Google Scholar
 I personally used both of them, Pubmed by default show the newest paper first and it's helpful to keep on track. While Google Scholar shows the most relevant paper, moreover it shows the citation for those papers. By citation numbers, you will have a general idea how widely recoganized this paper is.
