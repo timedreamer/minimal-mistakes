@@ -34,3 +34,5 @@ Luckily, the fix is easy. Just change the first line of that script to (or where
 ```
 
 Then it works great.
+
+It tooks **03:43:45** for building index.
